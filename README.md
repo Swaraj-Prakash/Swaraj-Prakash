@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="mailto:swarajprakashdas111@gmail.com"><img src="https://static.vecteezy.com/system/resources/thumbnails/020/964/377/small_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Email" style="width:40px;" title="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/saswat-kumar-pradhan-559b9b1b0"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" title="LinkedIn" style="width:40px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/swaraj-prakash-das-559b401a6"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" title="LinkedIn" style="width:40px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/chiku_satya_31/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Portfolio" title="Portfolio" style="width:40px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/chiku.chiku.3114935/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="Portfolio" title="Portfolio" style="width:40px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Satya831093"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Portfolio" title="Portfolio" style="width:40px"></a>
