@@ -62,14 +62,8 @@
   <h3>Github Stats</h3>
 </div>
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saswat-Kumar-Pradhan&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat-Kumar-Pradhan&theme=radical) 
-
 <br><br>
 <div align="center">
   <h3>My Projects</h3>
 </div>
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Saswat-Kumar-Pradhan&repo=DIGITAL-CLOCK&theme=radical)](https://github.com/Saswat-Kumar-Pradhan/DIGITAL-CLOCK)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Saswat-Kumar-Pradhan&repo=.BLOG&theme=radical)](https://github.com/Saswat-Kumar-Pradhan/.BLOG)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Saswat-Kumar-Pradhan&repo=ASIDE-SIMILAR-GAME&theme=radical)](https://github.com/Saswat-Kumar-Pradhan/ASIDE-SIMILAR-GAME)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Saswat-Kumar-Pradhan&repo=APP-DOWNLOAD-TASK&theme=radical)](https://github.com/Saswat-Kumar-Pradhan/APP-DOWNLOAD-TASK)
